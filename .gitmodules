@@ -1,3 +1,6 @@
 [submodule "MagicMirror/modules/MMM-GoogleCalendar"]
 	path = MagicMirror/modules/MMM-GoogleCalendar
 	url = git@github.com:randomBrainstormer/MMM-GoogleCalendar.git
+[submodule "modules/MMM-CalendarExt2"]
+	path = modules/MMM-CalendarExt2
+	url = https://github.com/MMM-CalendarExt2/MMM-CalendarExt2
