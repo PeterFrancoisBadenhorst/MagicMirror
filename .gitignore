@@ -84,3 +84,4 @@ Temporary Items
 
 # Ignore positions file (#3518)
 js/positions.js
+.creds
